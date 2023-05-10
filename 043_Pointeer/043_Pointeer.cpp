@@ -10,3 +10,10 @@ public:
 void mahasiswa::showmim() {
 	cout << "No induk = " << nim << endl;
 }
+
+int main()
+{
+	mahasiswa mhs{ 1 };
+	mhs.showmim();
+
+}
