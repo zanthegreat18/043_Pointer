@@ -24,5 +24,5 @@ int main()
 	pMhs->nim = 3;
 	mhs.showmim();
 	system("pause");
-
+	return 0;
 }
